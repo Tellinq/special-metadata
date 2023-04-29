@@ -155,12 +155,12 @@
     },
     {
       "identifier": "BetaSentryExceptionHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "BetaSentryEventBus",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
@@ -170,17 +170,17 @@
     },
     {
       "identifier": "DevSentryExceptionHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "DevSentryEventBus",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "SentryTraceSampling",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
@@ -195,27 +195,27 @@
     },
     {
       "identifier": "DevSentryAuthHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "BetaSentryAuthHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "SentryAuthHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "SentryExceptionHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "SentryReportHandler",
-      "value": false,
+      "value": true,
       "percentage": 100
     }
   ],

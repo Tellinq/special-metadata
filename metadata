@@ -125,12 +125,12 @@
     },
     {
       "identifier": "Trailer",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
       "identifier": "SentryEventBus",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "identifier": "LunarPlus",
-      "value": true,
+      "value": false,
       "percentage": 100
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "identifier": "showOptifineCapes",
-      "value": false,
+      "value": true,
       "percentage": 100
     },
     {

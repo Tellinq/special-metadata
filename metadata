@@ -1,0 +1,278 @@
+{
+  "blogPosts": [
+    {
+      "title": "Cicada 3301: A Deep Analysis",
+      "image": "https://noxiuam.cc/article/thumbnail/cicada-3301-a-deep-analysis.webp",
+      "excerpt": "The internet is a very vast and open field of the unknown, this is especially true for Cicada 3301.",
+      "link": "https://noxiuam.cc/article/cicada-3301-a-deep-analysis",
+      "forced": false,
+      "author": "Noxiuam",
+      "author_uuid": "d8b647ba-90f4-4bef-8a2b-c41a3ed40215",
+      "author_image": null,
+      "button_text": null,
+      "button_icon": "BOOK",
+      "button_color": "BLUE",
+      "hash": "938858d488178b3a5fe4ba2ce18c000571bfd88ea7faec5759e551ab9c23bc05"
+    },
+    {
+      "title": "2011: The Year That Sony Failed",
+      "image": "https://noxiuam.cc/article/thumbnail/2011-the-year-sony-failed.webp",
+      "excerpt": "Learn about how Playstation Network was hacked in 2011",
+      "link": "https://noxiuam.cc/article/the-year-that-sony-failed",
+      "forced": false,
+      "author": "Noxiuam",
+      "author_uuid": "d8b647ba-90f4-4bef-8a2b-c41a3ed40215",
+      "author_image": null,
+      "button_text": "Read Article",
+      "button_icon": "BOOK",
+      "button_color": "BLUE",
+      "hash": "3c498ff744c967c595d64548b6bf4f2907639d492e072c49ddaf216b2c093a6e"
+    },
+    {
+      "title": "The History of Lunar Client",
+      "image": "https://noxiuam.cc/article/thumbnail/lunar-client-article.webp",
+      "excerpt": "It was 2019.. the community was at it's lowest.. until one day.. Lunar came.",
+      "link": "https://noxiuam.cc/article/a-history-of-the-biggest-minecraft-client",
+      "forced": false,
+      "author": "Noxiuam",
+      "author_uuid": "d8b647ba-90f4-4bef-8a2b-c41a3ed40215",
+      "author_image": null,
+      "button_text": "Read Article",
+      "button_icon": "BOOK",
+      "button_color": "BLUE",
+      "hash": "a942b0a2a7519c452dd11a9f79540387eac6bb87377e01b2d561643bf8176ba9"
+    }
+  ],
+  "alert": {
+    "colors": {
+      "RED": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "BLUE": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "PURPLE": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "TWITCH": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "YOUTUBE": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "DISCORD": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "TWITTER": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      },
+      "YOUTOOZ": {
+        "default": "#FF4800FF",
+        "hover": "#FF4800FF"
+      }
+    },
+    "active": []
+  },
+  "modSettings": {},
+  "clientSettings": {
+    "GENERAL": {}
+  },
+  "pinnedServers": [
+    {
+      "name": "Special",
+      "ip": "bypassed.noxiuam.cc",
+      "expirationDate": -1,
+      "versions": [
+        "1.8.9",
+        "1.8",
+        "1.12.2",
+        "1.12",
+        "1.16.5",
+        "1.16",
+        "1.17.1",
+        "1.17",
+        "1.18.2",
+        "1.18",
+        "1.19.4",
+        "1.19"
+      ],
+      "removable": true
+    }
+  ],
+  "starServers": [
+    {
+      "pattern": "*.noxiuam.cc",
+      "resource": "icons/stars/lunar_32x32_green.webp"
+    },
+    {
+      "pattern": "*.hs50.cc",
+      "resource": "icons/stars/lunar_32x32_pink.webp"
+    }
+  ],
+  "featuredServers": [],
+  "featureFlag": [
+    {
+      "identifier": "aprilFoolsMainMenu",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "Trailer",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "SentryEventBus",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "mcstats",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "LunarPlus",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "DevSentryReportHandler",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "BetaSentryReportHandler",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "BetaSentryExceptionHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "BetaSentryEventBus",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "showOptifineCapes",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "DevSentryExceptionHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "DevSentryEventBus",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "SentryTraceSampling",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "YouTooz",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "Wrapped",
+      "value": true,
+      "percentage": 100
+    },
+    {
+      "identifier": "DevSentryAuthHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "BetaSentryAuthHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "SentryAuthHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "SentryExceptionHandler",
+      "value": false,
+      "percentage": 100
+    },
+    {
+      "identifier": "SentryReportHandler",
+      "value": false,
+      "percentage": 100
+    }
+  ],
+  "serverIntegration": [
+    {
+      "ip": [
+        "*.hypixel.net"
+      ],
+      "brand": "Hypixel BungeeCord",
+      "modSettings": {
+        "replayMod": {
+          "enable": true
+        }
+      }
+    },
+    {
+      "ip": [
+        "eu.loyisa.cn"
+      ],
+      "brand": "Loyisa's Europe TestServer",
+      "modSettings": {
+        "replayMod": {
+          "enable": true
+        }
+      }
+    }
+  ],
+  "knownServersHash": "f00f5cedca79d4edae68b42d8a7ae6373d85b6f4718c3cae0fa0a914a8154d03",
+  "store": {
+    "success": false
+  },
+  "sentryFilteredExceptions": [
+    {
+      "identifier": "webp",
+      "regex": "java\\.lang\\.UnsatisfiedLinkError\\: \\'int com\\.luciad\\.imageio\\.webp\\.WebP\\.getInfo\\(byte\\[\\]\\, int\\, int\\, int\\[\\]\\)\\'"
+    },
+    {
+      "identifier": "3dskins",
+      "regex": "HttpTexture is already uploaded & no cache file exists"
+    }
+  ],
+  "langOverride": {
+    "gui": {
+      "store": "INFORMATIVE ARTICLES",
+      "wrapped": "YOUR 2069",
+      "website": "The Best Client",
+      "trailer": "The Re-Re-Reawakening",
+      "support": "Where we won't help u"
+    }
+  },
+  "links": {
+    "wrapped": "https://cheatbreaker.net",
+    "store": "https://cheatbreaker.net",
+    "website": "https://cheatbreaker.net",
+    "support": "https://discord.cheatbreaker.net",
+    "merch": "https://cheatbreaker.net",
+    "youtooz": "https://cheatbreaker.net",
+    "trailer": "https://cheatbreaker.net"
+  }
+}
